@@ -1,4 +1,4 @@
-# Flutter Native OpenCV using FFI Plugin
+# Flutter OpenCV FFI Plugin
 - For: Android & IOS
 - How to using:
 + Method 1: clone project and using as a plugin
@@ -292,3 +292,9 @@ dependencies:
 ```
 Right click ios folder -> Open in Xcode -> Runner -> Build Phases -> Compile Sources -> + -> Select the files ( with copy option)
 ```
+
+# References
+1. https://medium.com/@gustavocnavarro/how-to-stitch-images-using-flutter-and-opencv-878db59ad4ca
+2. https://github.com/ValYouW/flutter-opencv-stream-processing/blob/master/tutorial.md
+3. https://github.com/khoren93/flutter_camera_processing/tree/master
+4. https://medium.com/flutter-community/integrating-c-library-in-a-flutter-app-using-dart-ffi-38a15e16bc14
